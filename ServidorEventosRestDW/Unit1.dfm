@@ -30,8 +30,8 @@ object DataModule1: TDataModule1
   object FDConnection1: TFDConnection
     Params.Strings = (
       
-        'Database=E:\THULIO BITTERNCOURT\Clube dos Programadores Delphi\P' +
-        'DVUPDATES.FDB'
+        'Database=E:\THULIO BITTERNCOURT\Clube dos Programadores Delphi\R' +
+        'estDataWare\PDVUPDATES.FDB'
       'User_Name=SYSDBA'
       'Password=masterkey'
       'DriverID=FB')
